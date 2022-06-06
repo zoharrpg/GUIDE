@@ -10,7 +10,7 @@
 <br>
 <br>
 <img src="demo.png">
-4. Open the **environment.ipynb** file using Jupyter Desktop, and run all the code in the file to install packages
+4. Open the <strong>environment.ipynb</strong> file using Jupyter Desktop, and run all the code in the file to install packages
 
 <img src="package.png">
 <br>
@@ -20,4 +20,4 @@
 ## Run Jupyter Notebook
 1. Open the Jupyter Notebook you want to run by click it on the left side bar
 <img src="notebook.png">
-2. Run each code cell by clicking the **Run** button, and you will see the result in the next cell.
+2. Run each code cell by clicking the <strong>Run</strong> button, and you will see the result in the next cell.
