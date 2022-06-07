@@ -10,12 +10,17 @@
 <br>
 <br>
 <img src="demo.png">
-4. Open the <strong>environment.ipynb</strong> file using Jupyter Desktop, and run all the code in the file to install packages
+4. Open the <strong>environment.ipynb</strong> file in the environment directory using Jupyter Desktop, and run all the code in the file to install packages
 
 <img src="package.png">
 <br>
 <br>
 <strong> Congratulation!!! You have finished all the steps for setting up the environment and packages. You only need to do these steps once. Now you can run any Jupyter Notebook we provided.</strong>
+
+## Download code repository
+1. Click the green **code** button and click  <strong>Download ZIP</strong>
+
+<img src="download.png">
 
 ## Run Jupyter Notebook
 1. Open the Jupyter Notebook you want to run by click it on the left side bar
